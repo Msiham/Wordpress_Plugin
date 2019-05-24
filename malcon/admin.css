@@ -1,0 +1,39 @@
+/*  Style Of Product page  */
+
+#cpt-menu {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 4px
+}
+h6 {
+  font-size: 17px;
+  color: #769a9b
+}
+p {
+  color:#898989
+}
+#cpt-menu td, #cpt-menu th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: #fcfcfc;
+
+}
+
+#cpt-menu tr:nth-child(even){background-color: #f2f2f2;}
+
+#cpt-menu tr:hover {background-color: #ddd;}
+
+#cpt-menu th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #53b1c4;
+  color: white;
+  width: 87px;
+}
+.thumbnaile {
+  width: 100px !important;
+  height: 72px !important
+}
+/*    End Style of Product Page    */
